@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    scale: 1.5;
+}
+
+a:active{
+    text-decoration-color: aquamarine;
+    text-shadow: 2px;
+    text-transform: uppercase;
+}
