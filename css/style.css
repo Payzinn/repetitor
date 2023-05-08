@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
 }
 
 a{
