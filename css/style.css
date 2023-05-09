@@ -1,4 +1,5 @@
 body{
+    background-color: rgba(38, 37, 37, 0.666);
     background-color: rgb(33, 65, 0);
     color: white;
     font-family: 'Courier New', Courier, monospace;
@@ -7,10 +8,6 @@ body{
 
 a{
     text-decoration: none;
-}
-
-a:hover{
-    scale: 1.5;
 }
 
 a:active{
