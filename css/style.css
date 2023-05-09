@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(33, 65, 0);
     color: white;
     font-family: 'Courier New', Courier, monospace;
     justify-content: center;
@@ -20,7 +20,7 @@ a:active{
 }
 
 button{
-    background-color: white;
+    background-color: rgb(221, 7, 7);
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
