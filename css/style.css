@@ -1,16 +1,9 @@
 body{
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-color: rgba(38, 37, 37, 0.666);
-=======
-=======
     background-color: rgba(38, 37, 37, 0.666);
->>>>>>> new
     background-color: rgb(33, 65, 0);
->>>>>>> new
     color: white;
     font-family: 'Courier New', Courier, monospace;
-    justify-content: center;
 }
 
 a{
